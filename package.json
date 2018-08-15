@@ -1,0 +1,14 @@
+{
+  "name": "test-basic-html",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Last <jordan.michael.last@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "basichtml": "^0.16.1",
+    "hyperhtml": "^2.13.0"
+  }
+}
